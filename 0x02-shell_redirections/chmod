@@ -1,0 +1,3 @@
+#!/bin/bash
+read -p "enter file name" filenm
+chmod u+x $filenm
